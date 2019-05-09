@@ -25,6 +25,7 @@ brew cask install nextcloud
 brew cask install paste
 brew cask install paw
 brew cask install sublime-text
+brew cask install sequel-pro
 brew cask install things
 brew cask install transmit
 brew cask install tower
