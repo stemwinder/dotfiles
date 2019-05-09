@@ -1,0 +1,8 @@
+# Sublime Text as global editor
+set -gx EDITOR 'subl -w'
+
+# homebrew python support
+set -gx PYTHONPATH /usr/local/lib/python3.6/site-packages
+
+# Increasing lastpass-cli agent timeout
+set -gx LPASS_AGENT_TIMEOUT 14400

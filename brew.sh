@@ -63,7 +63,6 @@ brew install awscli
 brew install bonnie++
 brew install composer
 brew install ffmpeg
-brew install fish
 brew install lastpass-cli
 brew install node
 
